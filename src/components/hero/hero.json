@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_hero_heroes",
+  "info": {
+    "displayName": "Hero",
+    "icon": "ambulance",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Number": {
+      "type": "integer"
+    },
+    "descriptio": {
+      "type": "richtext"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
